@@ -10,6 +10,8 @@ To use:
 * Run app.py go to the localhost link that is outputted.
 * Only enter whole numbers for temperature.
 
+![Screenshot_2020-04-20 COVID-19 Predictor](https://user-images.githubusercontent.com/25403763/79793665-f58ae700-831e-11ea-9aa7-087d17da2dff.png)
+
 
 ![Screenshot_2020-04-20 COVID-19 Predictor(1)](https://user-images.githubusercontent.com/25403763/79793617-ddb36300-831e-11ea-93bf-64ed4a01e6c8.png)
 
