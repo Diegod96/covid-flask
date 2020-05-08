@@ -36,8 +36,8 @@
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav mr-auto">
           <li class="nav-item">
-            <a class="nav-link" href="https://www.linkedin.com/in/diego-delgado-759711137/"
-              >About Me <span class="sr-only">(current)</span></a
+            <a class="nav-link" href="https://master.d30wuvfk5j97tx.amplifyapp.com/"
+              >Covid-19 Global Dashboard<span class="sr-only">(current)</span></a
             >
           </li>
           <li class="nav-item">
@@ -45,7 +45,7 @@
           </li>
           <li class="nav-item">
             <a class="nav-link" href="https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/testing-in-us.html" tabindex="-1" aria-disabled="true"
-              >Where To Get Tested</a
+              >Covid-19 United States Dashboard</a
             >
           </li>
         </ul>
@@ -74,6 +74,7 @@
             id="fever"
             name="fever"
             placeholder="Enter Fever Value"
+            required
           />
         </div>
 
@@ -85,12 +86,13 @@
             id="age"
             name="age"
             placeholder="Enter Your Age"
+            required
           />
         </div>
 
         <div class="form-group">
           <label for="pain">Body Pain</label>
-          <select class="form-control custom-select" name="pain" id="pain">
+          <select class="form-control custom-select" name="pain" id="pain" required>
             <option value="0">No Pain</option>
             <option value="1">Severe Pain</option>
           </select>
@@ -102,6 +104,7 @@
             class="form-control custom-select"
             name="runnyNose"
             id="runnyNose"
+            required
           >
             <option value="0">Yes</option>
             <option value="1">No</option>
@@ -114,6 +117,7 @@
             class="form-control custom-select"
             name="diffBreath"
             id="diffBreath"
+            required
           >
             <option value="-1">No Difficulty</option>
             <option value="0">Little Difficulty</option>
