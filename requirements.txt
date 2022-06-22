@@ -47,7 +47,7 @@ nbformat==5.0.4
 node==0.9.24
 notebook==6.0.3
 notify-run==0.0.13
-numpy==1.18.1
+numpy==1.22.0
 odict==1.7.0
 packaging==20.3
 pandas==0.25.3
