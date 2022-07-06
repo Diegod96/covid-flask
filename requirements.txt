@@ -12,7 +12,7 @@ gast==0.3.3
 gl==0.2.36
 grpcio==1.28.1
 h5py==2.10.0
-html5lib==0.9999999
+html5lib==0.999999999
 hyperlink==19.0.0
 icalendar==4.0.5
 idna==2.8
